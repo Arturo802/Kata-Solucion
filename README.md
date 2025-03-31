@@ -50,7 +50,7 @@ Característica: Conversión a CamelCase
     Dado una cadena ""
     Cuando se llama a la función toCamelCase
     Entonces la salida debe ser ""
-
+Estoy ahregando esta nueva linea para poder probar los comandos.
   Escenario: Conversión de cadena nula
     Dado una cadena nula
     Cuando se llama a la función toCamelCase
